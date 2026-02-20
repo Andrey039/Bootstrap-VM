@@ -7,7 +7,7 @@
 Запустите одну команду на сервере с 3x-ui:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Andrey039/Bootstrap-VM/main/install.sh)
 ```
 
 Скрипт автоматически:
